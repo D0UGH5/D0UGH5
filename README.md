@@ -12,7 +12,7 @@ Estou buscando ativamente por uma oportunidade como desenvolvedor para aplicar m
 - 👨‍💻 Foco em desenvolvimento **Back-end com Java e Spring Boot**.
 - 🌱 Aprendendo e aplicando conhecimentos em **JavaScript, Python, PHP e React**.
 - 🔧 Experiência prática na criação de um backend para um **jogo RPG educacional** e um **aplicativo de finanças**.
-- 💡 Apaixonado por resolver problemas e criar soluções de software eficientes.
+- 💡 Interessado em resolver problemas e criar soluções de software eficientes.
 - 🎯 Buscando oportunidades para crescer e gerar impacto em uma equipe de desenvolvimento.
 
 ### 🛠️ Tecnologias e Ferramentas:
