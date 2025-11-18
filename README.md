@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Murilo Furtado!
 
-<a href="https://www.linkedin.com/in/murilofneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/murilo-furtado-da-silva-neto-7519a5287/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
